@@ -1,0 +1,33 @@
+baseurl = "https://productonomics.com/"
+theme = "cocoa-eh"
+builddrafts = true
+canonifyurls = true
+contentdir = "content"
+languageCode = "en-US"
+layoutdir = "layouts"
+publishdir = "public"
+author = "Umang Sehgal"
+title = "Productonomics"
+disqusshortname = ""
+pluralizelisttitles = false
+
+[permalinks]
+blog = "blog/:slug/"
+
+[params]
+dateform = "Jan 2, 2006"
+dateformfull = "Mon Jan 2 2006 15:04:05 MST"
+description = "Productonomics blog"
+copyright = "Copyright © 2019 Umang Sehgal"
+logofile = "img/logo.png"
+faviconfile = "img/icon.png"
+highlightjs = true
+progressively = true
+align_left = false
+lang = "en"
+email = "sehgalumang@outlook.com"
+linkedin = "umangsehgal"
+twitter = "Saasonomics"
+social_banner = "img/banner.png"
+posts_navigation = true
+small_banner_logo = false
