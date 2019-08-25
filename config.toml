@@ -1,33 +1,17 @@
-baseurl = "https://productonomics.com/"
-theme = "cocoa-eh"
-builddrafts = true
-canonifyurls = true
-contentdir = "content"
-languageCode = "en-US"
-layoutdir = "layouts"
-publishdir = "public"
-author = "Umang Sehgal"
+baseURL = "http://example.org/"
+languageCode = "en-us"
 title = "Productonomics"
-disqusshortname = ""
-pluralizelisttitles = false
+theme="tale-hugo"
 
-[permalinks]
-blog = "blog/:slug/"
+name = "Tale"
+license = "MIT"
+licenselink = "https://github.com/EmielH/tale-hugo/blob/master/LICENSE"
+description = "Productonomics aims to help investors and consumers to gain access to detailed analysis of growth startups and companies in the SaaS space. It also produces weekly content on tech topics that Product Managers would want to seek concise information on."
+homepage = "https://github.com/EmielH/tale-hugo"
+tags = ["Startups", "Product", "Investments", "Cloud", "AWS", "Machine Learning", "AI", "Market Fit", "Analytics"]
+features = ["pagination"]
+min_version = "0.50"
 
-[params]
-dateform = "Jan 2, 2006"
-dateformfull = "Mon Jan 2 2006 15:04:05 MST"
-description = "Productonomics blog"
-copyright = "Copyright © 2019 Umang Sehgal"
-logofile = "img/logo.png"
-faviconfile = "img/icon.png"
-highlightjs = true
-progressively = true
-align_left = false
-lang = "en"
-email = "sehgalumang@outlook.com"
-linkedin = "umangsehgal"
-twitter = "Saasonomics"
-social_banner = "img/banner.png"
-posts_navigation = true
-small_banner_logo = false
+[author]
+  name = "Umang Sehgal"
+  homepage = "https://www.linkedin.com/in/umangsehgal/"
