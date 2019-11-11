@@ -2,9 +2,9 @@
 author: "Umang Sehgal"
 date: 2019-02-20
 title: The Test of Bigger Data!
+image: image/theme/bigdata.jpg
 ---
 
-# The Test of Bigger Data
 
 Cathy O'Neil's (2017) article goes by the subheading “With computers as with humans, abundant information can reinforce prejudice”, the author claims that handing data over to statistical algorithms that are trained on historical data is not likely to improve human prejudice in making decisions. As students of science we have always been told that more data is always better in terms of linear models. Why is it that we observe contrasting behaviors leading to a higher prejudice even in large datasets? 
 

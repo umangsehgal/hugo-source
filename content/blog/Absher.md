@@ -2,9 +2,9 @@
 author: "Umang Sehgal"
 date: 2019-04-20
 title: Case Study - Would you promote an app that tracks your lady?
+image: image/theme/absher.jpg 
 ---
 
-# When your app can control women - Absher, a case study.
 
 Suppose you wake up one morning to find yourself barricaded in a hotel room in the Bangkok airport to avoid being returned to your family. That is when you had slipped away from your family during a holiday in Kuwait and boarded a plane for Thailand, but were stopped in the airport because your “male guardian” received a text message on his phone about your escape notified by the app Absher. Such was the case of Rahaf Alqunun who amongst many other women had the app impede her attempt to flee from an abusive home environment.
 

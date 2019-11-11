@@ -2,6 +2,7 @@
 author: "Umang Sehgal, Jiaqi Zhu, Lukas Naehrig "
 date: 2019-05-20
 title: Marijuana and Driving - An Assessment
+image: image/theme/Hazy.jpg 
 ---
 ## Introduction
 Since recreational marijuana use was legalized in 2012 in Washington and 2014 in Colorado, several states have joined this movement and legalized Marijuana. Most recently, Illinois became the 11th state to legalize such use in May of 2019. There have been a variety of debates and concerns raised about marijuana use while driving. Little to no research exists on the impacts of cannabis on drivers, making assessing the dangers of such behavior impossible. Based on polling results from the National Highway Traffic Safety Administration, 50% of recreational marijuana users believe that it is safe to drive while under the influence of cannabis, whereas only 14% of nonusers agree. It is very difficult to measure the exact amount of THC in one’s system, the psychoactive substance from smoking marijuana, by simple blood testing. Usually the impairment is observed for two to three hours after smoking; whereby an hour after smoking the peak THC levels have declined 80% - 90%.   

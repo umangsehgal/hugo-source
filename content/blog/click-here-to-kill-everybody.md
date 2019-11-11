@@ -2,9 +2,9 @@
 author: "Umang Sehgal"
 date: 2019-03-20
 title: Book Review - Click Here to Kill Everybody
+image: image/theme/chtke.jpg
 ---
 
-# Click Here to Kill Everybody
 
 [![](https://blog.epic.org/wp-content/uploads/2018/10/schneier-cover.jpg)](https://blog.epic.org/wp-content/uploads/2018/10/schneier-cover.jpg)
 
